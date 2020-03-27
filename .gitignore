@@ -1,0 +1,7 @@
+
+node_modules/
+upload/albums/*.jpg
+upload/artists/*.jpg
+upload/artists/*.png
+upload/songs/*.mp3
+upload/users/*.jpg
